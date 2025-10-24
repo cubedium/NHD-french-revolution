@@ -18,3 +18,8 @@ div.header {
     background-color: brown;
     padding: 20px;
 }
+
+div.footer {
+    background-color: blue;
+    padding: 20px;
+}
