@@ -25,7 +25,7 @@ div.footer {
 }
 
 div.scrollbg {
-    background-color: brown;
+    background-color: burlywood;
     width: 50%;
     margin-left: 25%;
     margin-right: 25%;
@@ -34,6 +34,6 @@ div.scrollbg {
 }
 
 div.scroll {
-    background-color: burlywood;
+    background-color: bisque;
     text-align: center;
 }
